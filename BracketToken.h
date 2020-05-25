@@ -1,0 +1,4 @@
+#ifndef BRACKETTOKEN_H
+#define BRACKETTOKEN_H
+
+#endif // BRACKETTOKEN_H

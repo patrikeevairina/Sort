@@ -1,0 +1,4 @@
+#ifndef FUNCTIONTOKEN_H
+#define FUNCTIONTOKEN_H
+
+#endif // FUNCTIONTOKEN_H
